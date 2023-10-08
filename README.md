@@ -1,11 +1,12 @@
 # README
 
-Retrieves the longgitude and latitude for a given ip address using IPStack API
+Retrieves the longitude and latitude for a given ip address using IPStack API
 
 
 ## Pre-requisites
 - Signup and obtain an api key from [IPStack](https://ipstack.com/)
 - Clone this repo
+- Build and run (next step)
 
 
 ## Build and run
